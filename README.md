@@ -1,1 +1,1 @@
-![Sakthi Prasanth — AI Engineer](./sakthi-prasanth-ai.svg)
+![Sakthi Prasanth — AI Engineer](./sakthi-prasanth-square-banner.svg)
