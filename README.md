@@ -1,2 +1,2 @@
-![Sakthi Prasanth — AI Engineer](./sakthi-prasanth.svg
+![Sakthi Prasanth — AI Engineer](./prasanth.svg
 )
